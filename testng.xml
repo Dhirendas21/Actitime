@@ -3,8 +3,9 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
     <classes>
-      <!--  class name="test.CreateWorkk"/>-->
-      <!--  class name="test.CreateLeaveType"/>-->
+      <class name="test.Test1"/>
+      <class name="test.CreateWorkk"/>
+      <class name="test.CreateLeaveType"/>
       <class name="test.LogintoActitime"/>
     </classes>
   </test> <!-- Test -->
