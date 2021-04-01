@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-03-27T21:07:48Z" name="Suite" finished-at="2021-03-27T21:08:27Z" duration-ms="39420">
+    <groups>
+    </groups>
+    <test started-at="2021-03-27T21:07:48Z" name="Test" finished-at="2021-03-27T21:08:27Z" duration-ms="39420">
+      <class name="test.LogintoActitime">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:test.LogintoActitime@1e6454ec]" started-at="2021-03-27T21:07:48Z" name="openBrowser" finished-at="2021-03-27T21:08:01Z" duration-ms="12973" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method is-config="true" signature="loginTo()[pri:0, instance:test.LogintoActitime@1e6454ec]" started-at="2021-03-27T21:08:01Z" name="loginTo" finished-at="2021-03-27T21:08:03Z" duration-ms="1852" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTo -->
+        <test-method signature="logintoActitime()[pri:0, instance:test.LogintoActitime@1e6454ec]" started-at="2021-03-27T21:08:03Z" name="logintoActitime" finished-at="2021-03-27T21:08:13Z" duration-ms="10696" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logintoActitime -->
+        <test-method is-config="true" signature="logoutFrom()[pri:0, instance:test.LogintoActitime@1e6454ec]" started-at="2021-03-27T21:08:13Z" name="logoutFrom" finished-at="2021-03-27T21:08:26Z" duration-ms="12950" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutFrom -->
+        <test-method is-config="true" signature="close()[pri:0, instance:test.LogintoActitime@1e6454ec]" started-at="2021-03-27T21:08:26Z" name="close" finished-at="2021-03-27T21:08:27Z" duration-ms="895" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- test.LogintoActitime -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
